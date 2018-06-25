@@ -11,6 +11,10 @@ Updated: 2018-04-09 14:13:09
 
 */
 
+#hero-image {
+  position: relative;
+}
+
 #hero-image::before {
   position: absolute;
   content: '';
